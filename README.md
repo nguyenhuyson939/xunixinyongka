@@ -65,3 +65,5 @@
 ## 4. 编写代码/修复BUG
 
 还在为掉发烦恼吗？还在为熬夜加班痛苦吗？GPT帮你解决这些问题。
+
+[【5月更新】国内ChatGPT-4中文镜像网站汇总](https://github.com/tinkerrichard19/GPT4-FREE)
