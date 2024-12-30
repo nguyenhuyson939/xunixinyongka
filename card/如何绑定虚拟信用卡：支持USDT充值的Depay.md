@@ -31,8 +31,6 @@
 2. 完成 KYC 认证（实名认证）  
 3. 充值并开通虚拟卡  
 
-![注册页面](https://private-user-images.githubusercontent.com/177537032/363495697-b0d51dd9-631c-46d7-b85f-69ebf6236666.png)
-
 ---
 
 ### 2. 完成 KYC 认证
@@ -59,7 +57,6 @@ KYC 认证是使用 Depay 的必备步骤。以下是具体说明：
 - **手续费**：充值时 Depay 收取 $1 手续费。
 - **最低充值金额**：$5。
 
-![充值示例](https://private-user-images.githubusercontent.com/177537032/363495686-5218c43b-0cc4-4a5d-8aab-16f6bb652002.png)
 
 ---
 
@@ -99,7 +96,6 @@ KYC 认证是使用 Depay 的必备步骤。以下是具体说明：
 [WildCard | 一分钟注册，轻松订阅海外线上服务](https://bit.ly/bewildcard)  
 使用邀请码：**ACCPAY**，即刻享受 0 手续费的快捷支付体验，开通 Google Play、MidJourney 等全球平台更轻松。
 
-![绑定成功示例](https://private-user-images.githubusercontent.com/177537032/363495678-675b686a-8bbd-49fc-a51c-63060889c090.png)
 
 ---
 
